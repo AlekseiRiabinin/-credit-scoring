@@ -8,3 +8,6 @@ Banking / FinTech, Startups, IT company, Business services [b2b]
 
 ## 3. Tech stack
 - Pandas
+
+## 4. Results
+According to the analysis done on the statistics, married people have more debts. In addition, income plays a very important role in repayment. The range of salaries between 50001 and 200000 unveils that there will be some problems with loans. That's why banks have to double check borrowers from this group. 
